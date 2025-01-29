@@ -46,7 +46,7 @@ For icons please refer - https://devicon.dev
 ***
 
 
-## CS691 - Fall 2022 Deliverables
+## CS691 - Spring 2025 Deliverables
 
 
 ### Presentations (Sprint Reviews)
