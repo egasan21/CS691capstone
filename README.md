@@ -1,14 +1,14 @@
-# Project Name - Pace University Capstone Project
+# 8020Fit - Pace University Capstone Project
 
 ***
 
 ## Project Description
 
-Your Project Description goes here.
+8020Fit is a comprehensive web app designed to optimize nutrition and fitness tracking. End users will take in depth quiz on what the nutrition and fitness goals are as well as lifestyle habits as well as nutrition/food preferences. From there, they will put in their body measurements and goal body measurements and any other information. The AI will then create recommendations for you for diet and exercise. You will also be able to track weights added to workout, macros, etc. which will then create stunning visuals to give the end user a macro of their nutrition and fitness to see if they’re on track.
 
 ***
 
-## Team Members
+## Team FitForce Members
 
 <table style="width:100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -61,7 +61,7 @@ For icons please refer - https://devicon.dev
 
 ### Team Working Agreement
 
-[Team Working Agreement as PDF]() | <a id="raw-url" href="">Download Team Working Agreement as Word Document</a>
+[Team Working Agreement as PDF](Documents/Working%20Agreement/Working%20Agreement.pdf) | [Download Team Working Agreement as Word Document](Documents/Working%20Agreement/Working%20Agreement.docx)</a>
 
 
 ***
@@ -70,8 +70,8 @@ For icons please refer - https://devicon.dev
 ## Additional Project Artifacts
 
 ### Product Personas
-[Persona 1](asdasd)
+[Persona 1](Documents/Personas/MomPersona.png)
 <br/>
-[Persona 2]()
+[Persona 2](Documents/Personas/StudentPersona.png)
 <br/> 
-[Persona 3]()
+[Persona 3](Documents/Personas/WorkingPersona.png)
