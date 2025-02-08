@@ -12,13 +12,14 @@
 
 <table style="width:100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" valign="center"><img src="Documents/Portraits/Rohan.jpg" width="250"><br />Rohan Patel (<a href="mailto:student pace email id">rp59653n@pace.edu</a>)</td>
-    <td align="center" valign="center"><img src="Link to your teammate photo on github" width="250"><br />Yaw Mensah (<a href="mailto:student pace email id">ym26692n@pace.edu</a>)</td>
-    <td align="center" valign="center"><img src="Documents/Portraits/Mustafa.jpg" width="250"><br />Mustafa Al-Tameemi (<a href="mailto:student pace email id">ma60965n@pace.edu</a>)</td>
+    <td align="center" valign="center"><img src="Documents/Portraits/Rohan.jpg" width="250" height="280"><br />Rohan Patel (<a href="mailto:student pace email id">rp59653n@pace.edu</a>)</td>
+    <td align="center" valign="center"><img src="Documents/Portraits/Yaw.jpg" width="250" height="280"><br />Yaw Mensah (<a href="mailto:student pace email id">ym26692n@pace.edu</a>)</td>
+    <td align="center" valign="center"><img src="Documents/Portraits/Mustafa.jpg" width="250" height="280"><br />Mustafa Al-Tameemi (<a href="mailto:student pace email id">ma60965n@pace.edu</a>)</td>
   </tr>
   <tr>
-    <td align="center" valign="center"><img src="Documents/Portraits/Miguel.jpg" width="250"><br />Miguel Lugo (<a href="mailto:student pace email id">ml76049p@pace.edu</a>)</td>
-    <td align="center" valign="center"><img src="Documents/Portraits/Adrian.jpg" width="250"><br />Adrian Egasan (<a href="mailto:student pace email id">ae71253n@pace.edu</a>)</td>
+    <td align="center" valign="center"><img src="Documents/Portraits/Miguel.jpg" width="250" height="280"><br />Miguel Lugo (<a href="mailto:student pace email id">ml76049p@pace.edu</a>)</td>
+    <td align="center" valign="center"><img src="Documents/Portraits/Adrian.jpg" width="250" height="280"><br />Adrian Egasan (<a href="mailto:student pace email id">ae71253n@pace.edu</a>)</td>
+     <td align="center" valign="center"><img src="Documents/Portraits/FitForce%20logo.jpg" width="250" height="280"><br /></td>
   </tr>
 </table>
 
@@ -47,17 +48,21 @@ For icons please refer - https://devicon.dev
 
 ## CS691 - Spring 2025 Deliverables
 
-
 ### Presentations (Sprint Reviews)
-1. [Watch Deliverable 1 Presentation Video]() 
-<br />1a. [View Deliverable 1 Presentation Slides as PDF]()
-<br />1b. <a id="raw-url" href="">Download Deliverable 1 Presentation Slides as PowerPoint</a>
+### Sprint 0
+1. [Watch Deliverable 1 Presentation Video](https://youtu.be/qdSIm8RtpHg) | [Click here to download mp4 file](Documents/Sprint%200/Sprint%200%20Presentation.mp4) 
+<br />1a. [View Deliverable 1 Presentation Slides as PDF](Documents/Sprint%200/Sprint%200%20Presentation.pdf)
+<br />1b. [Download Deliverable 1 Presentation Slides as PowerPoint](Documents/Sprint%200/Sprint%200%20Presentation.pptx)</a>
 
 
 ### Sprint Burndown Charts and Completed Tasks
 
-1. [Sprint 1 Completed Tasks]()
+1. [Sprint 0 Completed Tasks](Documents/Sprint%200/Sprint%200%20Tracker_Schedule.pdf)
 
+### Retrospectives
+
+1. [Watch Sprint 0 Retrospective](https://youtu.be/SeESlFNsA2k) | [Click here to download mp4 file](Documents/Sprint%200/Sprint%200%20Retrospective.mp4)
+   
 ### Team Working Agreement
 
 [Team Working Agreement as PDF](Documents/Working%20Agreement/Working%20Agreement.pdf) | [Download Team Working Agreement as Word Document](Documents/Working%20Agreement/Working%20Agreement.docx)</a>
