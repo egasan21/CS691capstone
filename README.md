@@ -50,9 +50,9 @@ For icons please refer - https://devicon.dev
 
 ### Presentations (Sprint Reviews)
 ### Sprint 0
-1. [Watch Deliverable 1 Presentation Video](https://youtu.be/qdSIm8RtpHg) | [Click here to download mp4 file](Documents/Sprint%200/Sprint%200%20Presentation.mp4) 
-<br />1a. [View Deliverable 1 Presentation Slides as PDF](Documents/Sprint%200/Sprint%200%20Presentation.pdf)
-<br />1b. [Download Deliverable 1 Presentation Slides as PowerPoint](Documents/Sprint%200/Sprint%200%20Presentation.pptx)</a>
+1. [Watch Deliverable 0 Presentation Video](https://youtu.be/qdSIm8RtpHg) | [Click here to download mp4 file](Documents/Sprint%200/Sprint%200%20Presentation.mp4) 
+<br />1a. [View Deliverable 0 Presentation Slides as PDF](Documents/Sprint%200/Sprint%200%20Presentation.pdf)
+<br />1b. [Download Deliverable 0 Presentation Slides as PowerPoint](Documents/Sprint%200/Sprint%200%20Presentation.pptx)</a>
 
 
 ### Sprint Burndown Charts and Completed Tasks
